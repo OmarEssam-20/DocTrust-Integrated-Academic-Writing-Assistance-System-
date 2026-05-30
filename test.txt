@@ -1,0 +1,29 @@
+Summarization:
+
+The rapid advancement of artificial intelligence has transformed numerous industries, 
+particularly in the domain of natural language processing. Modern transformer-based 
+models such as BART and T5 have demonstrated remarkable capabilities in understanding 
+and generating human language. These models are pre-trained on massive corpora and 
+fine-tuned on specific downstream tasks, enabling them to perform abstractive 
+summarization, paraphrasing, and semantic similarity computation. The DocTrust system 
+leverages these state-of-the-art architectures to provide academic writing assistance, 
+helping students and researchers improve the quality and originality of their work. 
+By integrating summarization, paraphrasing, and plagiarism detection into a unified 
+platform, DocTrust addresses the core challenges faced in academic writing and 
+integrity verification.
+ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+Paraphrasing:
+
+Deep learning models require large amounts of labeled training data to achieve 
+high performance on natural language processing tasks.
+ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+Plagiarism (High Risk):
+
+Plagiarism detection systems compare submitted texts with a reference corpus 
+to identify similarities.
+ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+Plagiarism (Low Risk):
+
+The migratory patterns of Arctic tern populations are influenced by 
+geomagnetic field variations during seasonal transitions.
+
